@@ -9,7 +9,7 @@ const Home = () => {
       <div className='hero-content'>
         <h1 className='hero-text'>Book Shop</h1>
         <p className='hero-description'>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. At illum sit molestias omnis neque soluta maiores voluptates obcaecati. Ab explicabo sunt ullam id?
+          Welcome to the official Bookstore Management system of our Institute. We are committed to deliver hassle-free reader experience for searching books available with us.
         </p>
       </div>
       <div className='hero-image'>
