@@ -11,8 +11,11 @@ Also the mongodb compass is required to store the data on local machine. Online 
 
 
 For frontend:
+
 cd client 
+
 npm run dev 
+
 The deployment server will start at http://localhost:5173
 
 To load data :
