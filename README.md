@@ -3,6 +3,7 @@ open terminal
 
 For backend:
 cd server
+
 first create a default admin account on mongodb compass on loacl machine by doing nodemon seed.js.
 After this open new terminal and do nodemon index.js .
 This will start the server at http://localhost:4000. 
