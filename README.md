@@ -5,8 +5,11 @@ For backend:
 cd server
 
 first create a default admin account on mongodb compass on local machine by doing nodemon seed.js.
+
 After this open new terminal and do nodemon index.js .
+
 This will start the server at http://localhost:4000. 
+
 The PORT can be changed but then the PORT number has to be changed everywhere. 
 Also the mongodb compass is required to store the data on local machine. Online server is not used. 
 
