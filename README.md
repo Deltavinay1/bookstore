@@ -24,4 +24,4 @@ The default admin created using nodemon seed.js has
 
 Login using above and create users , books and other things as required for sample data.
 
-The SALT used is 10 for hashing the password. 
+The SALT used is 10 for hashing the password.
