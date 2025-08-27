@@ -18,7 +18,8 @@ The deployment server will start at http://localhost:5173
 To load data :
 Connect to local Mongodb compass server.
 
-The default admin created using nodemon seed.js has 
+The default admin created using nodemon seed.js has
+
     username : admin
     password : adminpassword
 
